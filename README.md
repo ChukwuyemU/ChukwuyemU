@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChukwuyemU
+- 👋 Hi, I’m Chukwuyem
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning in-demand skills for a new career in the field of data analtics.
 - 💞️ I’m looking to collaborate on exciting data analytics projects.
